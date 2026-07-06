@@ -1,0 +1,4 @@
+com.mysql.cj.jdbc.Driver -----> driver
+jdbc:mysql://localhost:3306/your_database ----------> url
+root -----> username
+your_password --------> password 
