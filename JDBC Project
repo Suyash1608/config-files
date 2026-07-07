@@ -1,0 +1,24 @@
+                                                  Student Management System
+
+Objective: Build a Java application using JDBC to manage student records.
+
+Features:
+    Add a student
+    View all students
+    Search student by ID
+    Update student details
+    Delete a student
+
+Database Table:
+    Student ID
+    Name
+    Age
+    Department
+    Email
+
+Concepts To Be Used:
+    JDBC Connection
+    PreparedStatement
+    ResultSet
+    CRUD Operations
+    Exception Handling
