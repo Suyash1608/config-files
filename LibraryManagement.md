@@ -5,12 +5,12 @@
 The Library Management System is a comprehensive RESTful API built with Spring Boot. It allows a library to manage its catalog of books, student memberships, and borrowing operations. 
 
 ## 2. Technology Stack
-- **Language:** Java 17
-- **Framework:** Spring Boot 3.4.1
+- Java 21
+- **Framework:** Spring Boot
 - **Database:** PostgreSQL
 - **ORM:** Spring Data JPA (Hibernate)
-- **Utilities:** Lombok (for boilerplate code reduction)
-- **API Documentation:** Springdoc OpenAPI (Swagger UI)
+- **Utilities:** Lombok
+- Springdoc OpenAPI (Swagger UI)
 
 ## 3. Entity-Relationship (ER) Diagram
 
