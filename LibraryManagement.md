@@ -1,5 +1,5 @@
 
-# Library Management System - Project Guide
+# Library Management System
 
 ## 1. Project Overview
 The Library Management System is a comprehensive RESTful API built with Spring Boot. It allows a library to manage its catalog of books, student memberships, and borrowing operations. 
