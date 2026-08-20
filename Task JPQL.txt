@@ -1,0 +1,51 @@
+JPQL Equivalent to SQL — Student Database
+
+1. Write a SQL query to display all students and write its equivalent JPQL query.
+
+2. Write a query to find students whose age is greater than 20.
+
+3. Write a query to find students belonging to the Computer Science department.
+
+4. Write a query to find students whose name starts with the letter A.
+
+5. Write a query to display students whose marks are greater than 75.
+
+6. Write a query to sort students by their marks in descending order.
+
+7. Write a query to find the student with the highest marks.
+
+8. Write a query to find the average marks of all students.
+
+9. Write a query to count the total number of students.
+
+10. Write a query to find the minimum and maximum marks obtained by students.
+
+11. Write a query to find the number of students in each department using "GROUP BY".
+
+12. Write a query to display departments having more than 5 students using "HAVING".
+
+13. Write a query to find students who scored above the average marks.
+
+14. Write a query to find students enrolled in a particular course using a JPQL "JOIN".
+
+15. Write a query to update the marks of a student using JPQL.
+
+16. Write a query to update the department of all students who satisfy a given condition.
+
+17. Write a query to delete students whose marks are below 35.
+
+18. Write a query to delete a particular student based on their student ID.
+
+19. Write a query to find students who have not enrolled in any course.
+
+20. Write a query to display each student's name along with their department name using a relationship between "Student" and "Department".
+
+21. Write a query to find the top 3 students based on marks.
+
+22. Write a query to find students whose marks are between 60 and 80.
+
+23. Write a query to find students whose names contain ""an"".
+
+24. Write a query to find all students born after a specified date.
+
+25. Write a JPQL query to retrieve students along with their courses and demonstrate the equivalent SQL query.
